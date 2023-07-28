@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,102 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+<span style="color:blue"> Short Bio </span>
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+---
 
-Getting started
+I am Tren Ma, a PhD candidate in Financial Econometrics at the University of Glasgow. Prior joining the program, I completed my BSc degree in Mathematics from Hanoi National University of Education and a MRes in Economics at the University of Glasgow.
+{: style="text-align: justify"}
+
+My interests lies on financial econometrics and applications of machine learning techniques in financial trading and investment. I have presented my research at some major finance conferences such as American Finance Association, Financial Management Association annual meetings and China International Conference in Finance.
+{: style="text-align: justify"}
+
+
+[Curriculum Vitae](/files/pdf/Resume_Tren_Ma.pdf){: .btn--research}
+
+
+---
+
+<span style="color:blue"> Employments </span> 
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Visiting Scholar, Washington University in St. Louis, 2022
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* Lecturer in Mathematics, Thang Long University (Hanoi, Vietnam), 2011 - 2017
 
-**Markdown generator**
+---
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<span style="color:blue"> Research </span> 
+======
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Controlling for Luck in Picking Outperforming Trading Strategies
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**<font size="3">  Abstract: </font>** <font size="3"> 
+This paper develops a new framework to estimate the false discovery rate (FDR) using informative covariates, namely, the multivariate functional false discovery rate (mfFDR). The method gains a considerably higher power than the one that utilizes only one covariate and the ones that use only p−values. This advantage is robust under various settings of dependencies and estimation errors that are typical in economic and financial data. In further empirical analyses, the method is applied to detecting truly profitable trading rules from a large and widely used universe of technical trading rules in the foreign exchange market. Particularly, four informative covariates are introduced and analyzed. The mfFDR using the four covariates detects many more profitable rules than existing methods regardless of the group of currencies and sample periods. The portfolios of trading rules selected by mfFDR produce significantly positive net Sharpe ratios which are higher than those of portfolios selected by the existing methods. More importantly, the more covariates being used the higher Sharpe ratio the portfolios gain. Finally, via analyzing profitability of the technical rules conditionally on their category, useful insights on the use of the technical rules in practice are uncovered.
+</font> 
+{: style="text-align: justify"}
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[Preprint](/files/pdf/Controlling for Luck in Picking Outperforming Trading Strategies.pdf){: .btn--research}
+
+### Informative Covariates, False Discoveries and Mutual Fund Performance
+*with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis
+(Resubmitted to Journal of Econometrics)*
+
+**<font size="3">  Abstract: </font>**  <font size="3"> We introduce a novel multiple hypothesis testing method named the functional False Discovery Rate “plus” (fFDR+). The method incorporates informative covariates (and new information they carry) in estimating the False Discovery Rate (FDR) of predictive models’ “conditional” performance. In our simulation based on mutual fund returns, the fFDR+ controls well the FDR and gains considerable power over prior methods that do not account for extra information. Its advantage remains under different alpha distributions, balanced and unbalanced data structure, and cross-sectional dependent and independent error terms. It is also robust to estimation errors in the covariates. In further empirical analyses, we construct portfolios based on several covariates (five well-known and four new ones) and show that they enhance the performance of mutual fund portfolios, highlighting the value of extra information in the multiple hypothesis testing framework.
+</font>  
+{: style="text-align: justify"}
+
+[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
+
+
+### Picking Hedge Funds with High Confidence
+*with Ioannis Psaradellis, Georgios Sermpinis*
+
+**<font size="3">  Abstract: </font>** <font size="3">  This paper introduces a new procedure to control for family error rate (FWER) in picking out-performers. The method utilizes multiple side information to more precisely estimate the FWER and gains much higher power in detecting out-performers compared to existing ones. In assessing hedge fund performance context, the new method allows investors picking out-performing funds with high confidence, that is, with very low FWER. The yearly rebalancing portfolios of hedge funds constructed by the new method with use of available covariates beat passive benchmarks in various settings. Our further experiments show that the new method detects truly out-performing hedge fund managers who can repeat their past performance over a long horizon.
+</font>  
+{: style="text-align: justify"}
+
+[Preprint](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
+
+
+
+### Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading 
+*with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor*
+
+
+### Chartists against the Machine: FX Technical Trading via Machine Learning
+*with Ilias Filippou, Mark P. Taylor*
+
+### Large Language Models, Risk and Firm Performance
+*with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis*
+
+---
+---
+
+<span style="color:blue"> Teaching </span> 
+=====
+
+### University of Glasgow
+
+  * Mathematical Methods (MRes in Economics)
+
+  * Advances of Machine Learning in Finance (MSc in Fintech)
+
+  * Portfolio Analysis and Investment (MSc)
+
+  * Econometrics Method for Accounting and Finance (Honour)
+
+  * Financial Derivatives (Honour)
+
+  * Introductory Statistics for Economics (Undergraduate)
+  
+### Thang Long University (Hanoi, Vietnam)
+
+  *   Econometrics (Fourth year)
+
+  *   Statistical Methods for Economics and Social Sciences (Third year)
+
+  *   Mathematical Methods for Economics (Second year)
+
+  *   Discrete mathematics (First year)
