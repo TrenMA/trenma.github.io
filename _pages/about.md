@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 <span style="color:blue"> Short Bio </span>
 ======
-
----
 
 I am Tren Ma, a PhD candidate in Financial Econometrics at the University of Glasgow. Prior joining the program, I completed my BSc degree in Mathematics from Hanoi National University of Education and a MRes in Economics at the University of Glasgow.
 {: style="text-align: justify"}
@@ -69,6 +69,7 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 
 
 ### Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading 
+{: style="text-align: justify"}
 *with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor*
 
 
