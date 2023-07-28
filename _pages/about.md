@@ -10,9 +10,6 @@ redirect_from:
 
 ---
 
-<span style="color:blue"> Short Bio </span>
-======
-
 I am Tren Ma, a PhD candidate in Financial Econometrics at the University of Glasgow. Prior joining the program, I completed my BSc degree in Mathematics from Hanoi National University of Education and a MRes in Economics at the University of Glasgow.
 {: style="text-align: justify"}
 
