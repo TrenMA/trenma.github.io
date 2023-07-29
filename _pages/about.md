@@ -46,8 +46,8 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 [Preprint](/files/pdf/Controlling for Luck in Picking Outperforming Trading Strategies.pdf){: .btn--research}
 
 ### Informative Covariates, False Discoveries and Mutual Fund Performance
-*with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis
-(Reject and resubmit, Journal of Econometrics)*
+*with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
+*(Reject and resubmit, Journal of Econometrics)*
 
 **<font size="3">  Abstract: </font>**  <font size="3"> We introduce a novel multiple hypothesis testing method named the functional False Discovery Rate “plus” (fFDR+). The method incorporates informative covariates (and new information they carry) in estimating the False Discovery Rate (FDR) of predictive models’ “conditional” performance. In our simulation based on mutual fund returns, the fFDR+ controls well the FDR and gains considerable power over prior methods that do not account for extra information. Its advantage remains under different alpha distributions, balanced and unbalanced data structure, and cross-sectional dependent and independent error terms. It is also robust to estimation errors in the covariates. In further empirical analyses, we construct portfolios based on several covariates (five well-known and four new ones) and show that they enhance the performance of mutual fund portfolios, highlighting the value of extra information in the multiple hypothesis testing framework.
 </font>  
