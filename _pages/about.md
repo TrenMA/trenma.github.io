@@ -79,7 +79,7 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 
 ---
 
-<span style="background-color:gray"> Teaching </span> 
+<span style="color:blue"> Teaching </span> 
 =====
 ---
 
