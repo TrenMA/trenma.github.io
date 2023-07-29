@@ -77,10 +77,9 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 ### Large Language Models, Risk and Firm Performance
 *with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis*
 
-
 ---
 
-<span style="color:blue"> Teaching </span> 
+<span style="background-color:gray"> Teaching </span> 
 =====
 ---
 
