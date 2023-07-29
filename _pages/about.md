@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--more-->
+---
+
 I am Tren Ma, a PhD candidate in Financial Econometrics at the University of Glasgow. Prior to joining the PhD, I completed my BSc degree in Mathematics at Hanoi National University of Education and a MRes in Economics at the University of Glasgow.
 {: style="text-align: justify"}
 
@@ -22,6 +23,7 @@ My research interests lie in financial econometrics and the applications of mach
 
 <span style="color:blue"> Employments </span> 
 ======
+---
 
 * Visiting Scholar, Washington University in St. Louis, 2022
 
@@ -31,6 +33,7 @@ My research interests lie in financial econometrics and the applications of mach
 
 <span style="color:blue"> Research </span> 
 ======
+---
 
 ### Controlling for Luck in Picking Outperforming Trading Strategies
 
@@ -74,11 +77,12 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 ### Large Language Models, Risk and Firm Performance
 *with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis*
 
----
+
 ---
 
 <span style="color:blue"> Teaching </span> 
 =====
+---
 
 ### University of Glasgow
 
