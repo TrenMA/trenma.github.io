@@ -43,7 +43,7 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 </font> 
 {: style="text-align: justify"}
 
-[Preprint](/files/pdf/Controlling for Luck in Picking Outperforming Trading Strategies.pdf){: .btn--research}
+[PDF](/files/pdf/Controlling for Luck in Picking Outperforming Trading Strategies.pdf){: .btn--research}
 
 ### Informative Covariates, False Discoveries and Mutual Fund Performance
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
@@ -53,7 +53,7 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 </font>  
 {: style="text-align: justify"}
 
-[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
+[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
 
 
 ### Picking Hedge Funds with High Confidence
@@ -63,7 +63,7 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 </font>  
 {: style="text-align: justify"}
 
-[Preprint](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
+[PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
 
 
