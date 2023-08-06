@@ -53,7 +53,7 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 </font>  
 {: style="text-align: justify"}
 
-[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
 
 
 ### Picking Hedge Funds with High Confidence
