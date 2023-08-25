@@ -68,10 +68,6 @@ My research interests lie in financial econometrics and the applications of mach
 ### Large Language Models, Risk and Firm Performance
 *with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis*
 
-
-### Controlling for Luck in Picking Outperforming Trading Strategies
-*Under substantial revision*
-
 ---
 
 <span style="color:blue"> Teaching </span> 
