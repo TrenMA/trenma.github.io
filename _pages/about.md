@@ -17,8 +17,6 @@ My research interests lie in financial econometrics and the applications of mach
 {: style="text-align: justify"}
 
 
-[Curriculum Vitae](/files/pdf/Resume_Tren_Ma.pdf){: .btn--research}
-
 
 ---
 
@@ -35,15 +33,6 @@ My research interests lie in financial econometrics and the applications of mach
 <span style="color:blue"> Research </span> 
 ======
 ---
-
-### Controlling for Luck in Picking Outperforming Trading Strategies
-
-**<font size="3">  Abstract: </font>** <font size="3"> 
-This paper develops a new framework to estimate the false discovery rate (FDR) using informative covariates, namely, the multivariate functional false discovery rate (mfFDR). The method gains a considerably higher power than the one that utilizes only one covariate and the ones that use only p−values. This advantage is robust under various settings of dependencies and estimation errors that are typical in economic and financial data. In further empirical analyses, the method is applied to detecting truly profitable trading rules from a large and widely used universe of technical trading rules in the foreign exchange market. Particularly, four informative covariates are introduced and analyzed. The mfFDR using the four covariates detects many more profitable rules than existing methods regardless of the group of currencies and sample periods. The portfolios of trading rules selected by mfFDR produce significantly positive net Sharpe ratios which are higher than those of portfolios selected by the existing methods. More importantly, the more covariates being used the higher Sharpe ratio the portfolios gain. Finally, via analyzing profitability of the technical rules conditionally on their category, useful insights on the use of the technical rules in practice are uncovered.
-</font> 
-{: style="text-align: justify"}
-
-[PDF](/files/pdf/Controlling for Luck in Picking Outperforming Trading Strategies.pdf){: .btn--research}
 
 ### Informative Covariates, False Discoveries and Mutual Fund Performance
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
@@ -77,6 +66,10 @@ This paper develops a new framework to estimate the false discovery rate (FDR) u
 
 ### Large Language Models, Risk and Firm Performance
 *with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis*
+
+
+### Controlling for Luck in Picking Outperforming Trading Strategies
+*Under substantial revision
 
 ---
 
