@@ -55,7 +55,9 @@ My research interests lie in financial econometrics and the applications of mach
 
 [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
+### Controlling for luck in picking outperforming trading strategies
 
+*(Under revising)*
 
 ### Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading 
 {: style="text-align: justify"}
