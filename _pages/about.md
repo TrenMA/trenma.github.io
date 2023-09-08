@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-Mathematics (BSc, MEd) from Hanoi National University of Education, Economics from the University of Glasgow, I am a finacial economist whose research interests lie in financial econometrics and the applications of machine learning techniques in financial trading and investment. 
+Mathematics (BSc and MEd) from Hanoi National University of Education, Economics (MRes and PhD) from the University of Glasgow, I am a financial economist whose research interests lie in financial econometrics and the applications of machine learning techniques in financial trading and investment. 
 {: style="text-align: justify"}
 
 ---
