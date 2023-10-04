@@ -28,7 +28,7 @@ Mathematics (BSc and MEd) from Hanoi National University of Education, Economics
 <span style="color:blue"> Research </span> 
 ======
 ---
-
+.
 ### Informative Covariates, False Discoveries and Mutual Fund Performance
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
 
@@ -50,9 +50,6 @@ Mathematics (BSc and MEd) from Hanoi National University of Education, Economics
 
 [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
-### Controlling for luck in picking outperforming trading strategies
-
-*(Under revising)*
 
 ### Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading 
 {: style="text-align: justify"}
