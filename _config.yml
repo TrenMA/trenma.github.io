@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link           .  : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tren Ma"
+  name             : "    Tren Ma    "
   avatar           : "avatar2.JPG"
-  bio              : # "PhD"
+  bio              :  " "
   #location         : "Glasgow"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
