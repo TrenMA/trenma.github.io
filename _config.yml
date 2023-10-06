@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tren Ma"
   avatar           : "avatar2.JPG"
-  bio              : "PhD Candidate"
+  #bio              : "PhD"
   location         : "Glasgow"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
