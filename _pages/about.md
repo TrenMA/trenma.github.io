@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
+======
+
+    
+---
 <span style="color:blue"> About me </span> 
 ======
 ---
