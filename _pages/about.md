@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Bio"
 excerpt_separator: <!--more-->
 author_profile: true
 redirect_from: 
