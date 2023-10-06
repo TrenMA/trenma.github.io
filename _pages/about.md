@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Bio"
+title: "Welcome to my website!"
 excerpt_separator: <!--more-->
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<span style="color:blue"> About me </span> 
+======
 ---
 
 Mathematics (BSc and MEd) from Hanoi National University of Education, Economics (MRes and PhD) from the University of Glasgow, I am a financial economist whose research interests lie in financial econometrics and the applications of machine learning techniques in financial trading and investment. 
