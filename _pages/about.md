@@ -15,7 +15,7 @@ redirect_from:
 ======
 ---
 
-Mathematics (BSc and MEd) from Hanoi National University of Education, Economics (MRes and PhD) from the University of Glasgow, I am a financial economist whose research interests lie in financial econometrics and the applications of machine learning techniques in financial trading and investment. I spent 6 years as a Lecturer in Mathematics, and I am now an incoming Assistant Professor in Finance, Risk and Banking at the University of Nottingham.
+Mathematics from Hanoi National University of Education, Economics from the University of Glasgow, I am a financial economist whose research interests lie in financial econometrics and the applications of machine learning techniques in financial trading and investment. I spent 6 years as a Lecturer in Mathematics, and I am now an incoming Assistant Professor in Finance, Risk and Banking at the University of Nottingham.
 {: style="text-align: justify"}
 
 
