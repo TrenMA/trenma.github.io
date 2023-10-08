@@ -11,11 +11,11 @@ redirect_from:
 
 ---
 
-<span style="color:blue"> About me </span> 
+<span style="color:blue"> About </span> 
 ======
 ---
 
-Mathematics from Hanoi National University of Education, Economics from the University of Glasgow, I am a financial economist whose research interests lie in financial econometrics and the applications of machine learning techniques in financial trading and investment. I spent 6 years as a Lecturer in Mathematics, and I am now an incoming Assistant Professor in Finance, Risk and Banking at the University of Nottingham.
+I am Tren Ma, a financial economist. I have background in Mathematics from Hanoi National University of Education and Economics from the University of Glasgow. My reseacrh interests lie in financial econometrics and the applications of machine learning in asset pricing, financial trading and investment. I am joining the University of Nottingham as Assistant Professor in Finance, Risk and Banking. Previously, I worked as a Lecturer in Mathematics for about 6 years at Thang Long University, and as a Graduate Teaching Assistant during my Economics study at the University of Glasgow.  
 {: style="text-align: justify"}
 
 
@@ -34,7 +34,7 @@ Mathematics from Hanoi National University of Education, Economics from the Univ
 <span style="color:blue"> Research </span> 
 ======
 ---
-.
+
 ### Informative Covariates, False Discoveries and Mutual Fund Performance
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
 
