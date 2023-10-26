@@ -47,10 +47,6 @@ I am Tren Ma, a financial economist. I have background in Mathematics from Hanoi
 ### Picking Hedge Funds with High Confidence
 *with Ioannis Psaradellis, Georgios Sermpinis*
 
-**<font size="3">  Abstract: </font>** <font size="3">  This paper introduces a new procedure to control for family error rate (FWER) in picking out-performers. The method utilizes multiple side information to more precisely estimate the FWER and gains much higher power in detecting out-performers compared to existing ones. In assessing hedge fund performance context, the new method allows investors picking out-performing funds with high confidence, that is, with very low FWER. The yearly rebalancing portfolios of hedge funds constructed by the new method with use of available covariates beat passive benchmarks in various settings. Our further experiments show that the new method detects truly out-performing hedge fund managers who can repeat their past performance over a long horizon.
-</font>  
-{: style="text-align: justify"}
-
 [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
 
