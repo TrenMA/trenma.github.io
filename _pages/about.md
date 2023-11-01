@@ -16,10 +16,10 @@ $~$
 ======
 ---
 
-I am Tren Ma, a financial economist. I have background in Mathematics from Hanoi National University of Education and Economics from the University of Glasgow. My reseacrh interests lie in financial econometrics and the applications of machine learning in asset pricing, financial trading and investment. 
+I am Tren Ma, a financial economist. My reseacrh interests lie in financial econometrics and the applications of machine learning in asset pricing, financial trading and investment. 
 {: style="text-align: justify"}
 
-I worked as a Lecturer in Mathematics for about 6 years at Thang Long University, and as a Graduate Teaching Assistant during my Economics study at the University of Glasgow. I will soon join the University of Nottingham as an Assistant Professor in Finance, Risk and Banking.
+I am currently an Assistant Professor in Finance, Risk and Banking Department at Nottingham University Business School, the University of Nottingham. Previously, I was a Graduate Teaching Assistant at the University of Glasgow, a Visiting Scholar at WashU, and a Lecturer in Mathematics at Thang Long University. 
 {: style="text-align: justify"}
 
 
@@ -28,8 +28,9 @@ I worked as a Lecturer in Mathematics for about 6 years at Thang Long University
 <span style="color:blue"> Employments </span> 
 ======
 ---
+* Assistant Professor of Finance, the University of Nottingham, 2023 - Present
 
-* Visiting Scholar, Washington University in St. Louis, 2022
+* Visiting Scholar, the Washington University in St. Louis, 2022
 
 * Lecturer in Mathematics, Thang Long University (Hanoi, Vietnam), 2011 - 2017
 
