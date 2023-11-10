@@ -22,6 +22,14 @@ I am Tren Ma, a financial economist. My reseacrh interests lie in financial econ
 I am currently an Assistant Professor in Finance, Risk and Banking Department at Nottingham University Business School, the University of Nottingham. Previously, I was a Graduate Teaching Assistant at the University of Glasgow, a Visiting Scholar at WashU, and a Lecturer in Mathematics at Thang Long University. 
 {: style="text-align: justify"}
 
+---
+
+<span style="color:blue"> Contact </span> 
+======
+
+* Office: C40, South Building, Jubilee Campus, Business School South, Wollaton Rd, Lenton, Nottingham NG8 1BB
+* Email: Please visit [my office webpage](https://www.nottingham.ac.uk/business/people/liztm.phtml){: .btn--research}.
+
 
 ---
 
