@@ -27,7 +27,7 @@ I am currently an Assistant Professor in Finance, Risk and Banking Department at
 <span style="color:blue"> Contact </span> 
 ======
 
-* Office: C40, South Building, Jubilee Campus, Business School South, Wollaton Rd, Lenton, Nottingham NG8 1BB
+* Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham NG8 1BB
 * Email: Please visit [my office webpage](https://www.nottingham.ac.uk/business/people/liztm.phtml){: .btn--research}.
 
 
