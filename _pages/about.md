@@ -103,3 +103,12 @@ I am currently an Assistant Professor in Finance, Risk and Banking Department at
   *   Mathematical Methods for Economics (Second year)
 
   *   Discrete mathematics (First year)
+
+---
+
+<span style="color:blue"> Conferences </span> 
+=====
+---
+
+
+* *2022:* Paris Financial Management Conference, Financial Management Association Annual Meeting (FMA), China International Conference in Finance (CICF), American Finance Association (AFA) Annual Meeting (Poster Session).
