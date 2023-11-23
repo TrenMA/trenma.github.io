@@ -1,11 +1,6 @@
 ---
 permalink: /
-title: <style="color:black"> "Welcome to my website!"
-excerpt_separator: <!--more-->
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Welcome to my website!"
 format: 
    html:
      include-in-header: 
@@ -15,6 +10,11 @@ format:
           color: black;
           }
           </style>
+excerpt_separator: <!--more-->
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 $~$
