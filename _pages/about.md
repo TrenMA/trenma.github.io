@@ -40,7 +40,7 @@ I have background in Mathematics (BSc and MEd) from Hanoi National University of
 
 ---
 
-<span style="color:gray"> Employments </span> 
+<span style="color:dimgray"> Employments </span> 
 ======
 ---
 **Assistant Professor in Finance**, the University of Nottingham, 2023 - Present
@@ -84,7 +84,7 @@ I have background in Mathematics (BSc and MEd) from Hanoi National University of
 
 ---
 
-<span style="color:black"> Teaching </span> 
+<span style="color:dimgray"> Teaching </span> 
 =====
 ---
 
@@ -114,7 +114,7 @@ I have background in Mathematics (BSc and MEd) from Hanoi National University of
 
 ---
 
-<span style="color:black"> Selected Presentations </span> 
+<span style="color:dimgray"> Selected Presentations </span> 
 =====
 ---
 **2023:** University of Glasgow, Fulbright University, University of Reading, University of Nottingham
@@ -123,7 +123,7 @@ I have background in Mathematics (BSc and MEd) from Hanoi National University of
 
 ---
 
-<span style="color:grey"> Others </span> 
+<span style="color:dimgray"> Others </span> 
 =====
 ---
 
