@@ -16,19 +16,19 @@ $~$
 ======
 ---
 
-I am Tren Ma, a financial economist. My reseacrh interests lie in financial econometrics and the applications of machine learning in asset pricing, financial trading and investment. 
+I am Tren Ma, an Assistant Professor in Finance, Risk and Banking Department at Nottingham University Business School, the University of Nottingham. Previously, I was a Lecturer in Mathematics at Thang Long University, and a Visiting Scholar at WashU. 
 {: style="text-align: justify"}
 
-I am currently an Assistant Professor in Finance, Risk and Banking Department at Nottingham University Business School, the University of Nottingham. Previously, I was a Lecturer in Mathematics at Thang Long University, and a Visiting Scholar at WashU. 
+My reseacrh interests lie in financial econometrics and the applications of machine learning in asset pricing, financial trading and investment. 
 {: style="text-align: justify"}
 
 ---
 
- *Contact details:*
+*Contact details:*
 
 * Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham NG8 1BB
 * Email: Please click [here](mailto:Tren.Ma@nottingham.ac.uk){: .btn--research}.
-
+* Official Webpage: [NUBS](https://www.nottingham.ac.uk/business/people/liztm.phtml)
 
 ---
 
