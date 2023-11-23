@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Hello!"
 format: 
    html:
      include-in-header: 
@@ -15,10 +15,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
-$~$
-
 ---
 
 I am Tren Ma, an Assistant Professor in Finance, Risk and Banking Department at Nottingham University Business School, the University of Nottingham. 
