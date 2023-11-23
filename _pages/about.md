@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Welcome to my website!]{style='color:blue'}"
+title: '[Welcome to my website!]{style="color:blue"}'
 excerpt_separator: <!--more-->
 author_profile: true
 redirect_from: 
