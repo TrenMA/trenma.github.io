@@ -30,7 +30,7 @@ I have background in Mathematics (BSc and MEd) from Hanoi National University of
 
 **Contact details:**
 
-* Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham NG8 1BB
+* Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham, NG8 1BB
 * Email: Please click [here](mailto:Tren.Ma@nottingham.ac.uk)
 * Official Webpage: [NUBS](https://www.nottingham.ac.uk/business/people/liztm.phtml)
 
