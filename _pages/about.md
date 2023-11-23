@@ -1,15 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
-format: 
-   html:
-     include-in-header: 
-        text: |
-          <style>
-          h1 {
-          color: black;
-          }
-          </style>
+title: '["Welcome to my website!"]{style = "color:navy"}'
 excerpt_separator: <!--more-->
 author_profile: true
 redirect_from: 
