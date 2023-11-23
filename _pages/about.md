@@ -48,25 +48,30 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 ---
 
 **Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [PDF](/files/pdf/Mutual Funds’ Conditional Performance Free of Data Snooping Bias.pdf){: .btn--research}
+
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
 
 *(Revise and resubmit, Journal of Financial and Quantitative Analysis)*
 
 
 **Picking Hedge Funds with High Confidence** [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
+
 *with Ioannis Psaradellis, Georgios Sermpinis*
 
 
 **Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading** 
 {: style="text-align: justify"}
+
 *with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor*
 
 *(A draft will be available soon)*
 
 **Chartists against the Machine: FX Technical Trading via Machine Learning**
+
 *with Ilias Filippou, Mark P. Taylor*
 
 **Large Language Models, Risk and Firm Performance**
+
 *with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis*
 
 ---
