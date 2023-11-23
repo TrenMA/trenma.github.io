@@ -31,7 +31,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 <span style="color:blue"> Employments </span> 
 ======
 ---
-**Assistant Professor of Finance**, the University of Nottingham, 2023 - Present
+**Assistant Professor in Finance**, the University of Nottingham, 2023 - Present
 
 **Visiting Scholar**, the Washington University in St. Louis, 2022
 
