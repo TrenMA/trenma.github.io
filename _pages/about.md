@@ -40,7 +40,7 @@ I have background in Mathematics (BSc and MEd) from Hanoi National University of
 
 ---
 
-<span style="color:black"> Employments </span> 
+<span style="color:gray"> Employments </span> 
 ======
 ---
 **Assistant Professor in Finance**, the University of Nottingham, 2023 - Present
