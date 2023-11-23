@@ -6,6 +6,15 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+format: 
+   html:
+     include-in-header: 
+        text: |
+          <style>
+          h1 {
+          color: black;
+          }
+          </style>
 ---
 
 $~$
