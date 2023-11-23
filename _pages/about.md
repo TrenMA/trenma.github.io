@@ -47,18 +47,14 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 ======
 ---
 
-### Mutual Funds’ Conditional Performance Free of Data Snooping Bias
+### Mutual Funds’ Conditional Performance Free of Data Snooping Bias [PDF](/files/pdf/Mutual Funds’ Conditional Performance Free of Data Snooping Bias.pdf){: .btn--research}
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
 
 *(Revise and resubmit, Journal of Financial and Quantitative Analysis)*
 
-[PDF](/files/pdf/Mutual Funds’ Conditional Performance Free of Data Snooping Bias.pdf){: .btn--research}
 
-
-### Picking Hedge Funds with High Confidence
+### Picking Hedge Funds with High Confidence [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 *with Ioannis Psaradellis, Georgios Sermpinis*
-
-[PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
 
 ### Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading 
