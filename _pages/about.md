@@ -52,7 +52,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 
 *(Revise and resubmit, Journal of Financial and Quantitative Analysis)*
 
-[PDF](files/pdf/Mutual Funds’ Conditional Performance Free of Data Snooping Bias.pdf){: .btn--research}
+[PDF](/files/pdf/Mutual Funds’ Conditional Performance Free of Data Snooping Bias.pdf){: .btn--research}
 
 
 ### Picking Hedge Funds with High Confidence
