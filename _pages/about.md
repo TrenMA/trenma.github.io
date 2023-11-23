@@ -114,7 +114,7 @@ I have background in Mathematics (BSc and MEd) from Hanoi National University of
 
 ---
 
-<span style="color:black"> Others </span> 
+<span style="color:grey"> Others </span> 
 =====
 ---
 
