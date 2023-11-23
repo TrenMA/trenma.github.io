@@ -28,7 +28,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 
 ---
 
-<span style="color:blue"> Employments </span> 
+<span style="color:black"> Employments </span> 
 ======
 ---
 **Assistant Professor in Finance**, the University of Nottingham, 2023 - Present
@@ -39,7 +39,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 
 ---
 
-<span style="color:blue"> Research </span> 
+<span style="color:black"> Research </span> 
 ======
 ---
 
@@ -72,7 +72,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 
 ---
 
-<span style="color:blue"> Teaching </span> 
+<span style="color:black"> Teaching </span> 
 =====
 ---
 
@@ -102,7 +102,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 
 ---
 
-<span style="color:blue"> Selected Presentations </span> 
+<span style="color:black"> Selected Presentations </span> 
 =====
 ---
 **2023:** University of Glasgow, Fulbright University, University of Reading, University of Nottingham
