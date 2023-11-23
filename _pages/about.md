@@ -24,7 +24,7 @@ I am currently an Assistant Professor in Finance, Risk and Banking Department at
 
 ---
 
- *Contact:*
+ *Contact details:*
 
 * Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham NG8 1BB
 * Email: Please click [here](mailto:Tren.Ma@nottingham.ac.uk){: .btn--research}.
