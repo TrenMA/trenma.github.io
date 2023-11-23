@@ -12,10 +12,6 @@ $~$
 
 ---
 
-<span style="color:blue"> About </span> 
-======
----
-
 I am Tren Ma, an Assistant Professor in Finance, Risk and Banking Department at Nottingham University Business School, the University of Nottingham. Previously, I was a Lecturer in Mathematics at Thang Long University, and a Visiting Scholar at WashU. 
 {: style="text-align: justify"}
 
