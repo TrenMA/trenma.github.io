@@ -52,7 +52,7 @@ I am currently an Assistant Professor in Finance, Risk and Banking Department at
 
 *(Revise and resubmit, Journal of Financial and Quantitative Analysis)*
 
-[Previous version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
+[PDF](files/pdf/Mutual Funds’ Conditional Performance Free of Data Snooping Bias.pdf){: .btn--research}
 
 
 ### Picking Hedge Funds with High Confidence
@@ -105,9 +105,10 @@ I am currently an Assistant Professor in Finance, Risk and Banking Department at
 
 ---
 
-<span style="color:blue"> Conferences </span> 
+<span style="color:blue"> Selected Presentations </span> 
 =====
 ---
 
+*2023:* University of Glasgow, Fulbright University, University of Reading, University of Nottingham
 
-* *2022:* Paris Financial Management Conference, Financial Management Association Annual Meeting (FMA), China International Conference in Finance (CICF), American Finance Association (AFA) Annual Meeting (Poster Session).
+* *2022:*  American Finance Association Annual Meeting (AFA, Poster Session),  China International Conference in Finance (CICF), Financial Management Association Annual Meeting (FMA), Paris Financial Management Conference
