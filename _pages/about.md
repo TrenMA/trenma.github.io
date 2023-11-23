@@ -17,6 +17,8 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 I am Tren Ma, an Assistant Professor in Finance, Risk and Banking Department at Nottingham University Business School, the University of Nottingham. 
 {: style="text-align: justify"}
 
