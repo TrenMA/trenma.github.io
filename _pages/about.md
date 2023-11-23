@@ -25,7 +25,7 @@ I am Tren Ma, an Assistant Professor in Finance, Risk and Banking Department at 
 My reseacrh interests lie in financial econometrics and the applications of machine learning in asset pricing, financial trading and investment. 
 {: style="text-align: justify"}
 
-I have background in Mathematics (BSc and MEd) from Hanoi National University of Education and Economics (MRes and PhD) from the University of Glasgow.
+I have a background in Mathematics (BSc and MEd) from Hanoi National University of Education and Economics (MRes and PhD) from the University of Glasgow.
 {: style="text-align: justify"}
 
 ---
