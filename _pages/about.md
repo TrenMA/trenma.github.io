@@ -51,7 +51,7 @@ I have background in Mathematics (BSc and MEd) from Hanoi National University of
 
 ---
 
-<span style="color:black"> Research </span> 
+<span style="color:dimgray"> Research </span> 
 ======
 ---
 
