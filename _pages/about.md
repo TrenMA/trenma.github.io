@@ -118,10 +118,8 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 * Grants:
 ** MRes/PhD in Economics studentship, University of Glasgow, 2017 – 2022
 ** Visiting grant, Olin Business School - WashU, 2022
-
 * *Award:*
 ** Adam Smith Scholar Award for Excellence, University of Glasgow, 201
-
 * *Programming skils:* R, Python, C++, Julia, SQL, Latex
 * *Languages:* Tay Language (Mother tongue), Vietnamese, English
-* *Hobby:* Football, Travelling
+* *Hobbies:* Football, Travelling
