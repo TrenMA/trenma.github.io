@@ -111,7 +111,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 
 ---
 
-<span style="color:blue"> Others </span> 
+<span style="color:black"> Others </span> 
 =====
 ---
 
