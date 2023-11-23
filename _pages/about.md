@@ -22,7 +22,7 @@ redirect_from:
 I am Tren Ma, an Assistant Professor in Finance, Risk and Banking Department at Nottingham University Business School, the University of Nottingham. 
 {: style="text-align: justify"}
 
-My reseacrh interests lie in financial econometrics and the applications of machine learning in asset pricing, financial trading and investment. 
+My research interests lie in financial econometrics and the applications of machine learning in asset pricing, financial trading and investment. 
 {: style="text-align: justify"}
 
 I have a background in Mathematics (BSc and MEd) from Hanoi National University of Education and Economics (MRes and PhD) from the University of Glasgow.
