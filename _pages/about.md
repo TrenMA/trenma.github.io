@@ -104,10 +104,9 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 <span style="color:blue"> Selected Presentations </span> 
 =====
 ---
+**2023:** University of Glasgow, Fulbright University, University of Reading, University of Nottingham
 
-* *2023:* University of Glasgow, Fulbright University, University of Reading, University of Nottingham
-
-* *2022:*  American Finance Association Annual Meeting (AFA, Poster Session),  China International Conference in Finance (CICF), Financial Management Association Annual Meeting (FMA), Paris Financial Management Conference
+** *2022:**  American Finance Association Annual Meeting (AFA, Poster Session),  China International Conference in Finance (CICF), Financial Management Association Annual Meeting (FMA), Paris Financial Management Conference
 
 ---
 
@@ -115,11 +114,14 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 =====
 ---
 
-* *Grants:*
+**Grants:**
   * MRes/PhD in Economics studentship, University of Glasgow, 2017 – 2022
   * Visiting grant, Olin Business School - WashU, 2022
     
-* *Award:* Adam Smith Scholar Award for Excellence, University of Glasgow, 2019
-* *Programming skils:* R, Python, C++, Julia, SQL, Latex
-* *Languages:* Tay Language (Mother tongue), Vietnamese, English
-* *Hobbies:* Football, Travelling
+**Award:** Adam Smith Scholar Award for Excellence, University of Glasgow, 2019
+
+**Programming skils:** R, Python, C++, Julia, SQL, Latex
+
+**Languages:** Tay Language (Mother tongue), Vietnamese, English
+
+**Hobbies:** Football, Travelling
