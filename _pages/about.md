@@ -24,7 +24,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 
 ---
 
-*Contact details:*
+**Contact details:**
 
 * Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham NG8 1BB
 * Email: Please click [here](mailto:Tren.Ma@nottingham.ac.uk)
@@ -35,11 +35,11 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 <span style="color:blue"> Employments </span> 
 ======
 ---
-* Assistant Professor of Finance, the University of Nottingham, 2023 - Present
+**Assistant Professor of Finance**, the University of Nottingham, 2023 - Present
 
-* Visiting Scholar, the Washington University in St. Louis, 2022
+**Visiting Scholar**, the Washington University in St. Louis, 2022
 
-* Lecturer in Mathematics, Thang Long University (Hanoi, Vietnam), 2011 - 2017
+**Lecturer in Mathematics**, Thang Long University (Hanoi, Vietnam), 2011 - 2017
 
 ---
 
@@ -47,26 +47,26 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 ======
 ---
 
-### Mutual Funds’ Conditional Performance Free of Data Snooping Bias [PDF](/files/pdf/Mutual Funds’ Conditional Performance Free of Data Snooping Bias.pdf){: .btn--research}
+**Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [PDF](/files/pdf/Mutual Funds’ Conditional Performance Free of Data Snooping Bias.pdf){: .btn--research}
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
 
 *(Revise and resubmit, Journal of Financial and Quantitative Analysis)*
 
 
-### Picking Hedge Funds with High Confidence [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
+**Picking Hedge Funds with High Confidence** [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 *with Ioannis Psaradellis, Georgios Sermpinis*
 
 
-### Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading 
+**Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading** 
 {: style="text-align: justify"}
 *with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor*
 
 *(A draft will be available soon)*
 
-### Chartists against the Machine: FX Technical Trading via Machine Learning
+**Chartists against the Machine: FX Technical Trading via Machine Learning**
 *with Ilias Filippou, Mark P. Taylor*
 
-### Large Language Models, Risk and Firm Performance
+**Large Language Models, Risk and Firm Performance**
 *with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis*
 
 ---
@@ -75,7 +75,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 =====
 ---
 
-### University of Glasgow
+**University of Glasgow**
 
   * Mathematical Methods (MRes in Economics)
 
@@ -89,7 +89,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 
   * Introductory Statistics for Economics (Undergraduate)
   
-### Thang Long University (Hanoi, Vietnam)
+**Thang Long University (Hanoi, Vietnam)**
 
   *   Econometrics (Fourth year)
 
@@ -106,7 +106,7 @@ My reseacrh interests lie in financial econometrics and the applications of mach
 ---
 **2023:** University of Glasgow, Fulbright University, University of Reading, University of Nottingham
 
-** *2022:**  American Finance Association Annual Meeting (AFA, Poster Session),  China International Conference in Finance (CICF), Financial Management Association Annual Meeting (FMA), Paris Financial Management Conference
+**2022:**  American Finance Association Annual Meeting (AFA, Poster Session),  China International Conference in Finance (CICF), Financial Management Association Annual Meeting (FMA), Paris Financial Management Conference
 
 ---
 
