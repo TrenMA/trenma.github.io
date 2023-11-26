@@ -57,7 +57,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
 
-*(Revise and resubmit, Journal of Financial and Quantitative Analysis)*
+*(Accepted, Journal of Financial and Quantitative Analysis)*
 
 
 **Picking Hedge Funds with High Confidence** [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
