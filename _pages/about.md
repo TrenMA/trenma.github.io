@@ -53,14 +53,14 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 ======
 ---
 
-**Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
+**Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
 
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
 
 *(Accepted, Journal of Financial and Quantitative Analysis)*
 
 
-**Picking Hedge Funds with High Confidence** [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
+**Picking Hedge Funds with High Confidence** [Paper](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
 *with Ioannis Psaradellis, Georgios Sermpinis*
 
