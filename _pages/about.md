@@ -76,10 +76,11 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 *with Ilias Filippou, Mark P. Taylor*
 
-**Large Language Models, Risk and Firm Performance**
+**Cyber risk, ChatGPT and firm value**
 
 *with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis*
 
+*(Submitted)*
 ---
 
 <span style="color:dimgray"> Teaching </span> 
