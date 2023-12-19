@@ -114,10 +114,9 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 ---
 
-<span style="color:dimgray"> Selected Presentations </span> 
+<span style="color:dimgray"> Conferences </span> 
 =====
 ---
-**2023:** University of Glasgow, Fulbright University, University of Reading, University of Nottingham
 
 **2022:**  American Finance Association Annual Meeting (AFA, Poster Session),  China International Conference in Finance (CICF), Financial Management Association Annual Meeting (FMA), Paris Financial Management Conference
 
