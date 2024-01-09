@@ -90,9 +90,9 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **University of Nottingham**
 
-   * Topics in Advanced Econometrics II (BUSI5018 - Doctoral level)
+   * Topics in Advanced Econometrics II (BUSI5018 - Doctoral)
 
-   * Financial Markets: Theory and Computation (BUSI3184 – Undergraduate level)
+   * Financial Markets: Theory and Computation (BUSI3184 – Undergraduate year three)
 
 **University of Glasgow**
 
