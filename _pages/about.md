@@ -88,6 +88,12 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 =====
 ---
 
+**University of Nottingham**
+
+   * Topics in Advanced Econometrics II (BUSI5018 - Doctoral level)
+
+   * Financial Markets: Theory and Computation (BUSI3184 – Undergraduate level)
+
 **University of Glasgow**
 
   * Mathematical Methods (MRes in Economics)
