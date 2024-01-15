@@ -62,7 +62,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **Picking Hedge Funds with High Confidence** [Paper](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
-*with Ioannis Psaradellis, Georgios Sermpinis*
+*with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis*
 
 
 **Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading** 
