@@ -55,27 +55,27 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
 
-*Journal of Financial and Quantitative Analysis, Forthcoming (with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis)*
+*Journal of Financial and Quantitative Analysis, Forthcoming* (with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis)
 
 
 **Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals** [Paper](/files/pdf/Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals.pdf){: .btn--research}
 {: style="text-align: justify"}
 
-*(with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)*
+(with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
 **Picking Hedge Funds with High Confidence** [Paper](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
-*(with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)*
+(with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
 
 **Chartists against the Machine: FX Technical Trading via Machine Learning**
 
-*(with Ilias Filippou, Mark P. Taylor)*
+(with Ilias Filippou, Mark P. Taylor)
 
 **Cyber risk, ChatGPT and firm value**
 
-*(with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)*
+(with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
 
 *(Submitted)*
 
