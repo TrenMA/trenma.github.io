@@ -57,20 +57,19 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 *with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis*
 
-*(Accepted, Journal of Financial and Quantitative Analysis)*
+*(Forthcoming, Journal of Financial and Quantitative Analysis)*
+
+
+**Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals** [Paper](/files/pdf/Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals.pdf){: .btn--research}
+{: style="text-align: justify"}
+
+*with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor*
 
 
 **Picking Hedge Funds with High Confidence** [Paper](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
 *with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis*
 
-
-**Informative Covariates, Data Snooping, and Profitability of Technical Analysis in Currency Trading** 
-{: style="text-align: justify"}
-
-*with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor*
-
-*(A draft will be available soon)*
 
 **Chartists against the Machine: FX Technical Trading via Machine Learning**
 
