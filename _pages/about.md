@@ -53,18 +53,18 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 ======
 ---
 
-**Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
+**Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research}
 
 *Journal of Financial and Quantitative Analysis*, Forthcoming (with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis)
 
 
-**Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals** [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
+**Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505) [PDF](/files/pdf/Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals.pdf){: .btn--research}
 {: style="text-align: justify"}
 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
-**Picking Hedge Funds with High Confidence** [Paper](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
+**Picking Hedge Funds with High Confidence** [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
