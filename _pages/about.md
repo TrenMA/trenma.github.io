@@ -58,7 +58,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 *Journal of Financial and Quantitative Analysis*, Forthcoming (with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis)
 
 
-**Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505) [PDF](/files/pdf/Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals.pdf){: .btn--research}
+**Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research} [PDF](/files/pdf/Conditional Tests for the Profitability of Technical Analysis in Currency Trading and Its Economic Fundamentals.pdf){: .btn--research}
 {: style="text-align: justify"}
 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
