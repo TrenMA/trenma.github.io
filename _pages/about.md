@@ -77,7 +77,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
 
-*(Submitted)*
+*(R&R, Risk Analysis)*
 
 ---
 
