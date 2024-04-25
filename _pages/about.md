@@ -138,5 +138,3 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 **Programming skils:** R, Python, C++, Julia, SQL, Latex
 
 **Languages:** Tay Language (Mother tongue), Vietnamese, English
-
-**Hobbies:** Football, Travelling
