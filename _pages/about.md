@@ -131,7 +131,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **Grants:**
   * MRes/PhD in Economics studentship, University of Glasgow, 2017 – 2022
-  * Visiting grant, Olin Business School - WashU, 2022
+  * Visiting grant, Olin Business School - Washington University in St. Louis, 2022
     
 **Award:** Adam Smith Scholar Award for Excellence, University of Glasgow, 2019
 
