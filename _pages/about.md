@@ -120,7 +120,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 <span style="color:dimgray"> Conferences </span> 
 =====
 ---
-**2024:** European Financial Management Association Annual Meeting<sup>*</sup>, Spanish Finance Association<sup>*</sup>
+**2024:** European Financial Management Association Annual Meeting<sup>*<sup>, Spanish Finance Association<sup>*<sup>
 
 **2023:** World Finance Banking Symposium<sup>*
 
