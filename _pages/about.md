@@ -88,7 +88,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 **University of Nottingham**
 
    * Topics in Advanced Econometrics II (Doctoral, Sole Lecturer)
-   * Supplementary Maths Sessions for Finance and Investment Students (MSc and PhD, Sole Lecturer) 
+   * Supplementary Maths Sessions for Finance and Investment Students (MSc, Sole Lecturer) 
      
    * Blockchain and Cryptocurrency (MSc, small group teaching)
    * Financial Markets: Theory and Computation (Undergraduate final year, small group teaching)
