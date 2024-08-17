@@ -123,6 +123,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 =====
 ---
 **2024:** INQUIRE Conference (UK, Scheduled); 
+
           European Financial Management Association Annual Meeting<sup>c</sup>; Spanish Finance Association Conference<sup>c</sup>
 
 **2023:** World Finance Banking Symposium<sup>c</sup>
