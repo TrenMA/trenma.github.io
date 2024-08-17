@@ -93,7 +93,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
    * Blockchain and Cryptocurrency (MSc, Tutorials)
    * Financial Markets: Theory and Computation (Undergraduate final year, Tutorials)
 
-**University of Glasgow**
+**University of Glasgow** (Tutorials during MRes and PhD studies)
 
   * Mathematical Methods (MRes in Economics)
 
