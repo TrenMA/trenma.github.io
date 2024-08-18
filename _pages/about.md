@@ -90,10 +90,10 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
    * Topics in Advanced Econometrics II (Doctoral, Sole Lecturer)
    * Supplementary Maths Sessions for Finance and Investment Students (MSc, Sole Lecturer) 
      
-   * Blockchain and Cryptocurrency (MSc, Tutorials)
-   * Financial Markets: Theory and Computation (Undergraduate final year, Tutorials)
+   * Blockchain and Cryptocurrency (MSc, Tutorial sesions)
+   * Financial Markets: Theory and Computation (Undergraduate, Tutorial sessions)
 
-**University of Glasgow** (Tutorials during MRes and PhD studies)
+**University of Glasgow** (Tutorial sessions)
 
   * Mathematical Methods (MRes in Economics)
 
