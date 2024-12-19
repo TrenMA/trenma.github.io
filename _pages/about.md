@@ -57,12 +57,6 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 *Journal of Financial and Quantitative Analysis*, Forthcoming (with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis)
 
-
-**Cyber risk, ChatGPT and firm value**
-
-*Revise & Resubmit, Risk Analysis* (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
-
-
 **Technical Analysis and Currency Trading: False Discoveries and Informative Covariates** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
 {: style="text-align: justify"}
 
@@ -79,6 +73,9 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 (with Ilias Filippou, Mark P. Taylor)
 
 
+**Cyber risk, ChatGPT and firm value**
+
+Revision requested by *Risk Analysis* (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
 ---
 
 <span style="color:dimgray"> Teaching </span> 
