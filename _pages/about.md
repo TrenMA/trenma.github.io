@@ -75,7 +75,9 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **Cyber risk, ChatGPT and firm value**
 
-Revision requested by *Risk Analysis* (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
+Revision requested by *Risk Analysis*  (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
+
+
 ---
 
 <span style="color:dimgray"> Teaching </span> 
