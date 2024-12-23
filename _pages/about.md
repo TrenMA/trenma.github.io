@@ -75,7 +75,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 (with Ilias Filippou, Mark P. Taylor)
 
 
-**Cyber risk, ChatGPT and firm value**
+**Cyber risk, ChatGPT and firm value** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
 
 Revision requested by *Risk Analysis*  
 
