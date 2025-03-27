@@ -106,7 +106,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
   * Introductory Statistics for Economics (Undergraduate)
   
-**Thang Long University (Lecturer)**
+**Thang Long University** (Lecturer)
 
   *   Econometrics (Fourth year)
 
