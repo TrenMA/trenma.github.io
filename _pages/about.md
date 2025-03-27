@@ -86,13 +86,13 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 =====
 ---
 
-**University of Nottingham**
+**University of Nottingham** (Lecturer)
 
    * Topics in Advanced Econometrics II (PhD in Finance)
    * Quantitative Support (Mathematics sessions, MSc in Finance) 
    * Financial Markets: Theory and Computation (BSc in Finance)
 
-**University of Glasgow** (Tutorial sessions)
+**University of Glasgow** (Graduate Teaching Assistant)
 
   * Mathematical Methods (MRes in Economics)
 
@@ -106,7 +106,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
   * Introductory Statistics for Economics (Undergraduate)
   
-**Thang Long University (Hanoi, Vietnam)**
+**Thang Long University (Lecturer)**
 
   *   Econometrics (Fourth year)
 
