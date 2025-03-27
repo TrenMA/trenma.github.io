@@ -121,13 +121,13 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 <span style="color:dimgray"> Conferences </span> 
 =====
 ---
-**2025:** FMA European Conference<sup>c</sup> (scheduled); Finance and Business Analytics Conference (scheduled); 
-
-**2024:** INQUIRE Conference (UK); European Financial Management Association Annual Meeting<sup>c</sup>; Spanish Finance Association Conference<sup>c</sup>
+**2022:**  American Finance Association Annual Meeting (AFA, Poster Session);  China International Conference in Finance (CICF); Financial Management Association Annual Meeting (FMA); Paris Financial Management Conference
 
 **2023:** World Finance Banking Symposium<sup>c</sup>
 
-**2022:**  American Finance Association Annual Meeting (AFA, Poster Session);  China International Conference in Finance (CICF); Financial Management Association Annual Meeting (FMA); Paris Financial Management Conference
+**2024:** INQUIRE Conference (UK); European Financial Management Association Annual Meeting<sup>c</sup>; Spanish Finance Association Conference<sup>c</sup>
+
+**2025:** FMA European Conference<sup>c</sup> (scheduled); Finance and Business Analytics Conference (scheduled); 
 
 <sup>c</sup> *Presented by co-authors*
 
