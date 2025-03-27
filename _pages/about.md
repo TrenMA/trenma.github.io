@@ -89,10 +89,8 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 **University of Nottingham**
 
    * Topics in Advanced Econometrics II (PhD in Finance)
-   * Quantitative Support sessions (Support Module for MSc in Finance and Investment) 
-     
-   * Blockchain and Cryptocurrency (MSc in Fintech, Small group teaching)
-   * Financial Markets: Theory and Computation (BSc in Finance, Small group teaching)
+   * Quantitative Support (Mathematics sessions, MSc in Finance) 
+   * Financial Markets: Theory and Computation (BSc in Finance)
 
 **University of Glasgow** (Tutorial sessions)
 
