@@ -127,7 +127,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **2024:** INQUIRE Conference (UK); European Financial Management Association Annual Meeting<sup>c</sup>; Spanish Finance Association Conference<sup>c</sup>
 
-**2025:** FMA European Conference<sup>c</sup> (scheduled); Finance and Business Analytics Conference (scheduled); 
+**2025:** FMA European Conference<sup>c</sup> (scheduled); Finance and Business Analytics Conference (scheduled); IFABS 2025 Oxford Conference;
 
 <sup>c</sup> *Presented by co-authors*
 
