@@ -77,6 +77,8 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **Cyber risk, ChatGPT and firm value** [SSRN (first draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
 
+(Revision Requested by Risk Analysis)
+
 (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
 
 
