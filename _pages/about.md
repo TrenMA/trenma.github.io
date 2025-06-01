@@ -55,7 +55,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research} [JFQA](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/mutual-funds-conditional-performance-free-of-data-snooping-bias/2B3C1D03EF5A90FC2E021D7EB544569A){: .btn--research}
 
-*Journal of Financial and Quantitative Analysis*, Forthcoming 
+*Journal of Financial and Quantitative Analysis*, May 2025, Vol. 60(3), pp. 1373–1400.
 
 (with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis)
 
@@ -65,7 +65,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
-**Picking Hedge Funds with High Confidence** [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research}
+**Picking Hedge Funds with High Confidence** [PDF](/files/pdf/Picking_Hedge_Funds_with_High_Confidence.pdf){: .btn--research} (A new version will be available in June 2025)
 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
