@@ -77,6 +77,16 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 (with Ilias Filippou, Mark P. Taylor)
 
 
+**Technical Analysis versus Economic Fundamentals in Currency Markets: A Machine-Learning Analysis**
+
+(with Ilias Filippou, Mark P. Taylor)
+
+
+**Currency Intraday Momentum**
+
+(with Ilias Filippou, Mark P. Taylor)
+
+
 **Cyber risk, ChatGPT and firm value** [SSRN (first draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
 
 
