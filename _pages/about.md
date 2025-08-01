@@ -88,7 +88,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 **Predictive Variable Selection: False Discoveries and Informative Covariates**
 
 
-**Cyber risk, ChatGPT and firm value** [SSRN (first draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
+**Cyber risk, ChatGPT and firm value** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
 
 
 (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
