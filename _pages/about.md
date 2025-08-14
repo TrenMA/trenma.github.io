@@ -82,7 +82,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **Currency Intraday Momentum**
 
-(with Ilias Filippou, Mark P. Taylor)
+(with Ilias Filippou, Mark P. Taylor, and Guofu Zhou)
 
 
 **Predictive Variable Selection: False Discoveries and Informative Covariates**
