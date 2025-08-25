@@ -72,7 +72,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 **Chartists against the Machine: FX Technical Trading via Machine Learning**
 
-(with Ilias Filippou, Mark P. Taylor)
+(with Ilias Filippou, Mark P. Taylor, and Guofu Zhou)
 
 
 **Technical Analysis versus Economic Fundamentals in Currency Markets: A Machine-Learning Analysis**
