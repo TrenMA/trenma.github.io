@@ -65,7 +65,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
-**Picking Hedge Funds with Information Updating** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423494){: .btn--research} 
+**Picking Hedge Funds with Information Updating** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} 
 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
