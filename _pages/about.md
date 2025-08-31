@@ -59,7 +59,7 @@ I have a background in Mathematics (BSc and MEd) from Hanoi National University 
 
 (with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis)
 
-**Technical Analysis and Currency Trading: False Discoveries and Informative Covariates** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
+**A Multivariate Covariate-Enhanced False Discovery Rate Method: Evidence from Technical Trading in Currency Markets** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
 {: style="text-align: justify"}
 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
