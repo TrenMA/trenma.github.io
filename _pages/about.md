@@ -27,7 +27,8 @@ My research lies at the intersection of finance, economics, and data science, wi
 * financial econometrics
 * empirical asset pricing
 * international finance
-* applications of machine learning in finance. 
+* mutual fund and hedge fund
+* machine learning in finance. 
 {: style="text-align: justify"}
 
 ---
