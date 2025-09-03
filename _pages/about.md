@@ -107,12 +107,13 @@ My research lies at the intersection of finance, economics, and data science, wi
 **University of Nottingham** 
 
 *Current year*
-   * Data Analytics and Machine Learning for FinTech
+   * Data Analytics and Machine Learning for FinTech (MSc in FinTech)
    * Financial Markets and Investment (BSc in Finance, Accounting and Management)
      
 *Previous years*
    * Topics in Advanced Econometrics II (PhD in Finance)
-   * Quantitative Support (Mathematics sessions, MSc in Finance) 
+   * Quantitative Support (Mathematics sessions, MSc in Finance and Investment)
+   * Financial Markets and Investment (BSc in Finance, Accounting and Management)
    
 
 **University of Glasgow** (Graduate Teaching Assistant)
