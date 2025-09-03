@@ -161,6 +161,6 @@ My research lies at the intersection of finance, economics, and data science, wi
     
 **Award:** Adam Smith Scholar Award for Excellence, University of Glasgow, 2019
 
-**Programming skils:** R, Python, Julia, SQL, Latex
+**Computer skils:** R, Python, Julia, SQL, Latex
 
 **Languages:** Tay Language (Mother tongue), Vietnamese, English
