@@ -29,7 +29,7 @@ My research lies at the intersection of finance, economics, and data science, wi
 * empirical asset pricing
 * international finance
 * mutual fund and hedge fund
-* machine learning in finance. 
+* machine learning in finance
 
 
 ---
@@ -110,7 +110,7 @@ My research lies at the intersection of finance, economics, and data science, wi
    * Data Analytics and Machine Learning for FinTech
    * Financial Markets and Investment (BSc in Finance, Accounting and Management)
      
-*Previous years:*
+*Previous years*
    * Topics in Advanced Econometrics II (PhD in Finance)
    * Quantitative Support (Mathematics sessions, MSc in Finance) 
    
