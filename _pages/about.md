@@ -26,11 +26,10 @@ My research lies at the intersection of finance, economics, and data science, wi
 {: style="text-align: justify"}
 * financial economics
 * financial econometrics
+* machine learning in finance
 * empirical asset pricing
 * international finance
 * mutual fund and hedge fund
-* machine learning in finance
-
 
 ---
 
@@ -151,7 +150,7 @@ My research lies at the intersection of finance, economics, and data science, wi
 
 **2024:** INQUIRE Conference (UK); European Financial Management Association Annual Meeting<sup>c</sup>; Spanish Finance Association Conference<sup>c</sup>
 
-**2025:** FMA European Conference<sup>c</sup> (scheduled); Finance and Business Analytics Conference (scheduled); IFABS 2025 Oxford Conference;
+**2025:** Australasian Finance and Banking Conference <sup>c</sup> (scheduled); Finance and Business Analytics Conference; IFABS 2025 Oxford Conference;
 
 <sup>c</sup> *Presented by co-authors*
 
