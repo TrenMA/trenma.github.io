@@ -19,7 +19,7 @@ redirect_from:
 
 ---
 
-I am Tren Ma, an Assistant Professor of Finance at the University of Nottingham. I have a background in Mathematics (BSc and MEd) from Hanoi National University of Education and Economics (MRes and PhD) from the University of Glasgow.
+I am Tren Ma, an Assistant Professor of Finance at the University of Nottingham. I have a background in Mathematics from Hanoi National University of Education, and Economics from the University of Glasgow.
 {: style="text-align: justify"}
 
 My research lies at the intersection of finance, economics, and data science, with particular interests in:
