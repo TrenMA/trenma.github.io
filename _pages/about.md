@@ -161,7 +161,7 @@ My research lies at the intersection of finance, economics, and data science, wi
 ---
 
 **Grants:**
-  * MRes + PhD Studentship in Economics (full tuition and living stipend), University of Glasgow, 2017 – 2022
+  * MRes + PhD Studentship in Economics (equivalent to a US-style 5-year PhD program, with full tuition and living stipend), University of Glasgow, 2017 – 2022
   * Visiting grant, Olin Business School - Washington University in St. Louis, 2022
     
 **Award:** Adam Smith Scholar Award for Excellence, University of Glasgow, 2019
