@@ -150,7 +150,7 @@ My research lies at the intersection of finance, economics, and data science, wi
 
 **2024:** INQUIRE Conference (UK); European Financial Management Association Annual Meeting<sup>c</sup>; Spanish Finance Association Conference<sup>c</sup>
 
-**2025:** Australasian Finance and Banking Conference <sup>c</sup> (scheduled); Finance and Business Analytics Conference; IFABS 2025 Oxford Conference;
+**2025:** Australasian Finance and Banking Conference (accepted); Finance and Business Analytics Conference; IFABS 2025 Oxford Conference;
 
 <sup>c</sup> *Presented by co-authors*
 
