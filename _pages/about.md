@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello"
 format: 
    html:
      include-in-header: 
