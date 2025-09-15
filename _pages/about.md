@@ -79,7 +79,7 @@ Journal of Financial and Quantitative Analysis, May 2025, Vol. 60(3), pp. 1373â€
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
 
-**Data Breaches, ChatGPT and Firm Value** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
+*Data Breaches, ChatGPT and Firm Value* [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
 
 
 (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
@@ -88,15 +88,14 @@ Journal of Financial and Quantitative Analysis, May 2025, Vol. 60(3), pp. 1373â€
 **Work in progress**
 ---
 
-**Chartists against the Machine: FX Technical Trading via Machine Learning**
+*Chartists against the Machine: FX Technical Trading via Machine Learning*
 
 (with Ilias Filippou, Mark P. Taylor, and Guofu Zhou)
 
 
-**Technical Analysis versus Economic Fundamentals in Currency Markets: A Machine-Learning Analysis**
+*Technical Analysis versus Economic Fundamentals in Currency Markets: A Machine-Learning Analysis*
 
 (with Ilias Filippou, Mark P. Taylor)
-
 
 
 ---
