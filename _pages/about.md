@@ -55,22 +55,38 @@ My research lies in financial economics, with particular interests in:
 ======
 ---
 
-**Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research} [JFQA](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/mutual-funds-conditional-performance-free-of-data-snooping-bias/2B3C1D03EF5A90FC2E021D7EB544569A){: .btn--research}
+**Publication**
+---
 
-*Journal of Financial and Quantitative Analysis*, May 2025, Vol. 60(3), pp. 1373–1400.
+*Mutual Funds’ Conditional Performance Free of Data Snooping Bias* [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research} [JFQA](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/mutual-funds-conditional-performance-free-of-data-snooping-bias/2B3C1D03EF5A90FC2E021D7EB544569A){: .btn--research}
+
+Journal of Financial and Quantitative Analysis, May 2025, Vol. 60(3), pp. 1373–1400.
 
 (with Po-Hsuan Hsu, Ioannis Kyriakou, Georgios Sermpinis)
 
-**A Multivariate Covariate-Enhanced False Discovery Rate Method: Evidence from Technical Trading in Currency Markets** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
+
+**Working papers**
+---
+
+*A Multivariate Covariate-Enhanced False Discovery Rate Method: Evidence from Technical Trading in Currency Markets* [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
 {: style="text-align: justify"}
 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
-**Picking Hedge Funds with Information Updating** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} 
+*Picking Hedge Funds with Information Updating* [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} 
 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
+
+**Data Breaches, ChatGPT and Firm Value** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
+
+
+(with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
+
+
+**Work in progress**
+---
 
 **Chartists against the Machine: FX Technical Trading via Machine Learning**
 
@@ -81,19 +97,6 @@ My research lies in financial economics, with particular interests in:
 
 (with Ilias Filippou, Mark P. Taylor)
 
-
-**Currency Intraday Momentum**
-
-(with Ilias Filippou, Mark P. Taylor, and Guofu Zhou)
-
-
-**Predictive Variable Selection: False Discoveries and Informative Covariates**
-
-
-**Data Breaches, ChatGPT and Firm Value** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
-
-
-(with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
 
 
 ---
