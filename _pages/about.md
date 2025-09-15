@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! Welcome to my webpage!"
+title: "Hello!"
 format: 
    html:
      include-in-header: 
