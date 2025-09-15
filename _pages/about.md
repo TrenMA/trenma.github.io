@@ -85,7 +85,7 @@ My research lies in financial economics, with particular interests in:
 (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
 
 
-**Work in progress**
+**Selected Work in progress**
 ---
 
 **Chartists against the Machine: FX Technical Trading via Machine Learning**
