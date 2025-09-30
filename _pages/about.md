@@ -40,7 +40,7 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 
 ---
 
-<span style="color:dimgray"> Employments </span> 
+<span style="color:dimgray"> Employment </span> 
 ======
 ---
 **Assistant Professor of Finance**, the University of Nottingham, 2023 - Present
