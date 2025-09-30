@@ -19,16 +19,16 @@ redirect_from:
 
 ---
 
-I am Tren Ma, an Assistant Professor of Finance at the University of Nottingham. I hold degrees in Mathematics from Hanoi National University of Education and in Economics from the University of Glasgow.
-{: style="text-align: justify"}
-
-My research lies in financial economics, with particular interests in:
+I am Tren Ma, an Assistant Professor of Finance at the University of Nottingham. My research lies in financial economics, with particular interests in:
 {: style="text-align: justify"}
 * financial econometrics
 * machine learning in finance
 * empirical asset pricing
 * international finance
 * mutual fund and hedge fund
+
+I hold degrees in Mathematics (BSc, MSc) from Hanoi National University of Education, and in Economics (MRes, PhD) from the University of Glasgow. During my doctoral studies, I was also a visiting scholar at Washington University in St. Louis.
+{: style="text-align: justify"}
 
 ---
 
@@ -44,8 +44,6 @@ My research lies in financial economics, with particular interests in:
 ======
 ---
 **Assistant Professor of Finance**, the University of Nottingham, 2023 - Present
-
-**Visiting Scholar**, the Washington University in St. Louis, 2022
 
 **Lecturer in Mathematics**, Thang Long University (Hanoi, Vietnam), 2011 - 2017
 
