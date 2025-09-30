@@ -160,8 +160,8 @@ I hold degrees in Mathematics (BSc, MSc) from Hanoi National University of Educa
 ---
 
 **Grants:**
-  * MRes + PhD Studentship in Economics (equivalent to a US-style 5-year PhD program, with full tuition and living stipend), University of Glasgow, 2017 – 2022
-  * Visiting grant, Olin Business School - Washington University in St. Louis, 2022
+  * MRes + PhD Studentship in Economics (5-year fully funded program: full tuition and living stipend), University of Glasgow, 2017–2022
+  * Visiting Research Stipend, Olin Business School, Washington University in St. Louis, 2022
     
 **Award:** Adam Smith Scholar Award for Excellence, University of Glasgow, 2019
 
