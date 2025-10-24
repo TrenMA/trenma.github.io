@@ -149,7 +149,7 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 
 **2024:** INQUIRE Conference (UK); European Financial Management Association Annual Meeting<sup>c</sup>; Spanish Finance Association Conference<sup>c</sup>
 
-**2025:** Vietnam Economist Annual Meeting (scheduled), Australasian Finance and Banking Conference (accepted); Finance and Business Analytics Conference; IFABS 2025 Oxford Conference;
+**2025:** Vietnam Economist Annual Meeting (scheduled), Australasian Finance and Banking Conference (accepted); Finance and Business Analytics Conference; IFABS 2025 Oxford Conference
 
 <sup>c</sup> *Presented by co-authors*
 
