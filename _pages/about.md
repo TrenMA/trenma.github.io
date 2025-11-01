@@ -136,7 +136,7 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 
   *   Mathematical Methods for Economics (Second year)
 
-  *   Logic and mathematical reasoning (First year)
+  *   Logic and Mathematical Reasoning (First year)
 
 ---
 
