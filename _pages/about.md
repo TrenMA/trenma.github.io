@@ -105,7 +105,7 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 **University of Nottingham** 
 
 *Current year*
-   * Data Analytics and Machine Learning for FinTech (MSc in Financial Technology)
+   * Data Analytics and Machine Learning for Finance (MSc in Financial Technology)
    * Financial Markets and Investment (BSc in Finance, Accounting and Management)
      
 *Previous years*
@@ -136,7 +136,7 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 
   *   Mathematical Methods for Economics (Second year)
 
-  *   Discrete mathematics (First year)
+  *   Logic and mathematical reasoning (First year)
 
 ---
 
