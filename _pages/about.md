@@ -66,7 +66,7 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 **Working papers**
 ---
 
-**A Multivariate Covariate-Enhanced False Discovery Rate Method: Evidence from Technical Trading in Currency Markets** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
+**Multivariate Functional False Discovery Rate Control in Large-Scale Multiple Testing** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
 {: style="text-align: justify"}
 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
