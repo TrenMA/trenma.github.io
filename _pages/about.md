@@ -72,7 +72,7 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
-**Assessing Hedge Fund Performance with Information-based Tests** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} 
+**Assessing Hedge Fund Performance with an Information-based Multiple Test** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} 
 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
