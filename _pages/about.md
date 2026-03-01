@@ -107,6 +107,7 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 *Current year*
    * Data Analytics and Machine Learning for Finance (MSc in Financial Technology)
    * Financial Markets and Investment (BSc in Finance, Accounting and Management)
+   * Statistical Methods and Hypothesis Testing for Business Analysis (Online MSc in Business Consulting and Analytics)
      
 *Previous years*
    * Topics in Advanced Econometrics II (PhD in Finance)
@@ -149,7 +150,9 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 
 **2024:** INQUIRE Conference (UK); European Financial Management Association Annual Meeting<sup>c</sup>; Spanish Finance Association Conference<sup>c</sup>
 
-**2025:** Vietnam Economist Annual Meeting (scheduled), Australasian Finance and Banking Conference (accepted); Finance and Business Analytics Conference; IFABS 2025 Oxford Conference
+**2025:** Vietnam Economist Annual Meeting, Australasian Finance and Banking Conference (accepted); Finance and Business Analytics Conference; IFABS 2025 Oxford Conference
+
+**2025:** Asia Meeting of the Econometric Society, East & Southeast Asia (Scheduled)
 
 <sup>c</sup> *Presented by co-authors*
 
