@@ -106,9 +106,9 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 
 *Current year*
    * Data Analytics and Machine Learning for Finance (MSc in Financial Technology)
-   * Financial Markets and Investment (BSc in Finance, Accounting and Management)
    * Statistical Methods and Hypothesis Testing for Business Analysis (Online MSc in Business Consulting and Analytics)
-     
+   * Financial Markets and Investment (BSc in Finance, Accounting and Management)
+
 *Previous years*
    * Topics in Advanced Econometrics II (PhD in Finance)
    * Quantitative Support (Mathematics sessions, MSc in Finance and Investment)
