@@ -77,7 +77,7 @@ I hold degrees in Mathematics (Bachelor, Master) from Hanoi National University 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
 
-**Data Breaches, ChatGPT and Firm Value** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
+**ChatGPT, Data Breaches, and Market Reactions** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
 
 
 (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
