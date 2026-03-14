@@ -27,9 +27,6 @@ I am Tren Ma, an Assistant Professor of Finance at the University of Nottingham.
 * international finance
 * mutual funds and hedge funds
 
-I hold degrees in Economics (MRes and PhD) from the University of Glasgow and in Mathematics (BSc and Master’s) from Hanoi National University of Education. During my studies at Glasgow, I was also a visiting scholar at the Olin Business School, Washington University in St. Louis.
-{: style="text-align: justify"}
-
 ---
 
 **Contact details:**
