@@ -69,7 +69,7 @@ I am Tren Ma, an Assistant Professor of Finance at the University of Nottingham.
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
-**Assessing Hedge Fund Performance with an Information-based Multiple Test** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} [Code](https://github.com/TrenMA/fwer-plus-in-assessing-hedge-fund-performance)
+**Assessing Hedge Fund Performance with an Information-based Multiple Test** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} [Code](https://github.com/TrenMA/fwer-plus-in-assessing-hedge-fund-performance){: .btn--research}
 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
