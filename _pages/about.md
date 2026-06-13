@@ -149,7 +149,7 @@ I am Tren Ma, an Assistant Professor of Finance at the University of Nottingham.
 
 **2025:** Vietnam Economist Annual Meeting, Australasian Finance and Banking Conference (accepted); Finance and Business Analytics Conference; IFABS 2025 Oxford Conference
 
-**2025:** Asia Meeting of the Econometric Society, East & Southeast Asia (Scheduled)
+**2026:** Asia Meeting of the Econometric Society, East & Southeast Asia (Scheduled)
 
 <sup>c</sup> *Presented by co-authors*
 
