@@ -1,40 +1,97 @@
 ---
-permalink: /teaching/
+layout: archive
 title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+I have over thirteen years of teaching experience in mathematics, statistics, econometrics, finance, and machine learning at undergraduate, master's, doctoral, and executive levels.
 
+## University of Nottingham
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+### Current Teaching
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+#### Data Analytics and Machine Learning for Finance
+*MSc Financial Technology*
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+Topics include data analytics, machine learning methods, predictive modelling, and applications in financial markets.
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+#### Statistical Methods and Hypothesis Testing for Business Analysis
+*Online MSc Business Consulting and Analytics*
+
+Topics include statistical inference, hypothesis testing, regression analysis, and business analytics.
+
+#### Financial Markets and Investment
+*BSc Finance, Accounting and Management*
+
+Topics include financial markets, portfolio theory, asset pricing, market efficiency, and investment strategies.
+
+### Previous Teaching
+
+#### Topics in Advanced Econometrics II
+*PhD Finance Programme*
+
+Advanced econometric methods for financial research, including time-series modelling, forecasting, machine learning, and empirical asset pricing applications.
+
+#### Quantitative Support Sessions
+*MSc Finance and Investment*
+
+Mathematics and statistics support for postgraduate finance students.
+
+#### Financial Markets and Investment
+*BSc Finance, Accounting and Management*
+
+Tutorial teaching and assessment support.
+
+---
+
+## University of Glasgow
+*Graduate Teaching Assistant*
+
+### Mathematical Methods
+*MRes Economics*
+
+### Advances of Machine Learning in Finance
+*MSc FinTech*
+
+### Portfolio Analysis and Investment
+*MSc*
+
+### Econometric Methods for Accounting and Finance
+*BAcc Honours*
+
+### Financial Derivatives
+*BAcc Honours*
+
+### Introductory Statistics for Economics
+*Undergraduate Economics*
+
+---
+
+## Thang Long University
+*Lecturer in Mathematics (2011–2017)*
+
+### Econometrics
+*Fourth Year*
+
+### Statistical Methods for Economics and Social Sciences
+*Third Year*
+
+### Mathematical Methods for Economics
+*Second Year*
+
+### Logic and Mathematical Reasoning
+*First Year*
+
+---
+
+## Teaching Interests
+
+- Financial Econometrics
+- Empirical Asset Pricing
+- Machine Learning in Finance
+- Data Analytics
+- Investment and Portfolio Management
+- Financial Derivatives
+- Statistics and Econometrics
+- Quantitative Methods for Business
