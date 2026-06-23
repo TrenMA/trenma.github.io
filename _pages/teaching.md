@@ -5,93 +5,48 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have over thirteen years of teaching experience in mathematics, statistics, econometrics, finance, and machine learning at undergraduate, master's, doctoral, and executive levels.
+**University of Nottingham**
 
-## University of Nottingham
+*Current year*
 
-### Current Teaching
+* Data Analytics and Machine Learning for Finance (MSc in Financial Technology)
 
-#### Data Analytics and Machine Learning for Finance
-*MSc Financial Technology*
+* Statistical Methods and Hypothesis Testing for Business Analysis (Online MSc in Business Consulting and Analytics)
 
-Topics include data analytics, machine learning methods, predictive modelling, and applications in financial markets.
+* Financial Markets and Investment (BSc in Finance, Accounting and Management)
 
-#### Statistical Methods and Hypothesis Testing for Business Analysis
-*Online MSc Business Consulting and Analytics*
+*Previous years*
 
-Topics include statistical inference, hypothesis testing, regression analysis, and business analytics.
+* Topics in Advanced Econometrics II (PhD in Finance)
 
-#### Financial Markets and Investment
-*BSc Finance, Accounting and Management*
+* Quantitative Support (Mathematics sessions, MSc in Finance and Investment)
 
-Topics include financial markets, portfolio theory, asset pricing, market efficiency, and investment strategies.
-
-### Previous Teaching
-
-#### Topics in Advanced Econometrics II
-*PhD Finance Programme*
-
-Advanced econometric methods for financial research, including time-series modelling, forecasting, machine learning, and empirical asset pricing applications.
-
-#### Quantitative Support Sessions
-*MSc Finance and Investment*
-
-Mathematics and statistics support for postgraduate finance students.
-
-#### Financial Markets and Investment
-*BSc Finance, Accounting and Management*
-
-Tutorial teaching and assessment support.
+* Financial Markets and Investment (BSc in Finance, Accounting and Management)
 
 ---
 
-## University of Glasgow
-*Graduate Teaching Assistant*
+**University of Glasgow** (Graduate Teaching Assistant)
 
-### Mathematical Methods
-*MRes Economics*
+* Mathematical Methods (MRes in Economics)
 
-### Advances of Machine Learning in Finance
-*MSc FinTech*
+* Advances of Machine Learning in Finance (MSc in FinTech)
 
-### Portfolio Analysis and Investment
-*MSc*
+* Portfolio Analysis and Investment (MSc)
 
-### Econometric Methods for Accounting and Finance
-*BAcc Honours*
+* Econometric Methods for Accounting and Finance (Honours)
 
-### Financial Derivatives
-*BAcc Honours*
+* Financial Derivatives (Honours)
 
-### Introductory Statistics for Economics
-*Undergraduate Economics*
+* Introductory Statistics for Economics (Undergraduate)
 
 ---
 
-## Thang Long University
-*Lecturer in Mathematics (2011–2017)*
+**Thang Long University** (Lecturer)
 
-### Econometrics
-*Fourth Year*
+* Econometrics (Fourth Year)
 
-### Statistical Methods for Economics and Social Sciences
-*Third Year*
+* Statistical Methods for Economics and Social Sciences (Third Year)
 
-### Mathematical Methods for Economics
-*Second Year*
+* Mathematical Methods for Economics (Second Year)
 
-### Logic and Mathematical Reasoning
-*First Year*
-
----
-
-## Teaching Interests
-
-- Financial Econometrics
-- Empirical Asset Pricing
-- Machine Learning in Finance
-- Data Analytics
-- Investment and Portfolio Management
-- Financial Derivatives
-- Statistics and Econometrics
-- Quantitative Methods for Business
+* Logic and Mathematical Reasoning (First Year)
