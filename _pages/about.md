@@ -38,7 +38,3 @@ My work develops statistical and machine learning methods for financial decision
 * Official Webpage: [Nottingham University Business School](https://www.nottingham.ac.uk/business/people/liztm.phtml)
 
 ---
-
----
-
-For further information, please see the Research, Teaching, and CV pages.
