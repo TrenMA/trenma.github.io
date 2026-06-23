@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I have over a decade of teaching experience in mathematics, statistics, econometrics, finance, and machine learning at undergraduate, postgraduate, and doctoral levels. I have taught a wide range of modules at the University of Nottingham, the University of Glasgow, and Thang Long University.
+
+---
+
 **University of Nottingham**
 
 *Current year*
