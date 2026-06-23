@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 format:
    html:
      include-in-header:
