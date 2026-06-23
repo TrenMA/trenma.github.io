@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publication
+## Publications
 
 **Mutual Funds’ Conditional Performance Free of Data Snooping Bias** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456){: .btn--research} [JFQA](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/mutual-funds-conditional-performance-free-of-data-snooping-bias/2B3C1D03EF5A90FC2E021D7EB544569A){: .btn--research}
 
