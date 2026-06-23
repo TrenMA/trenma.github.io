@@ -36,5 +36,3 @@ My work develops statistical and machine learning methods for financial decision
 * Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham, NG8 1BB
 * Email: Please click [here](mailto:Tren.Ma@nottingham.ac.uk)
 * Official Webpage: [Nottingham University Business School](https://www.nottingham.ac.uk/business/people/liztm.phtml)
-
----
