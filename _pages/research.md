@@ -17,7 +17,7 @@ author_profile: true
 
 ## Working Papers
 
-**Multivariate Functional False Discovery Rate Control in Large-Scale Multiple Testing** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
+**A Multivariate Covariate-Enhanced False Discovery Rate Method: Evidence from Technical Trading in Currency Markets** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
