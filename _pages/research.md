@@ -44,6 +44,7 @@ author_profile: true
 
 (with Ilias Filippou, Mark P. Taylor)
 
+---
 
 ## Selected Conference Presentations
 
@@ -53,7 +54,7 @@ author_profile: true
 
 * Vietnam Economist Annual Meeting (2025)
 
-* INQUIRE Conference, United Kingdom (2024)
+* INQUIRE Conference (2024)
 
 * American Finance Association Annual Meeting, Poster Session (2022)
 
