@@ -29,7 +29,7 @@ My research focuses on financial economics, with particular interests in:
 
 ---
 
-*Contact:*
+**Contact:**
 
 * Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham, NG8 1BB
 * Email me: Please click [here](mailto:Tren.Ma@nottingham.ac.uk)
