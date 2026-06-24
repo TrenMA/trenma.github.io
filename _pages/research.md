@@ -33,7 +33,7 @@ author_profile: true
 
 ---
 
-## Work in Progress
+## Selected Work in Progress
 
 **Chartists against the Machine: FX Technical Trading via Machine Learning**
 
