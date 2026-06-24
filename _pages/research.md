@@ -21,13 +21,11 @@ author_profile: true
 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
-<br>
 
 **Assessing Hedge Fund Performance with an Information-based Multiple Test** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} [Code](https://github.com/TrenMA/fwer-plus-in-assessing-hedge-fund-performance){: .btn--research}
 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
-<br>
 
 **ChatGPT, Data Breaches, and Market Reactions** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
 
@@ -41,8 +39,24 @@ author_profile: true
 
 (with Ilias Filippou, Mark P. Taylor, and Guofu Zhou)
 
-<br>
 
 **Technical Analysis versus Economic Fundamentals in Currency Markets: A Machine-Learning Analysis**
 
 (with Ilias Filippou, Mark P. Taylor)
+
+
+## Selected Conference Presentations
+
+* Asia Meeting of the Econometric Society, East & Southeast Asia (scheduled, 2026)
+
+* IFABS Oxford Conference (2025)
+
+* Vietnam Economist Annual Meeting (2025)
+
+* INQUIRE Conference, United Kingdom (2024)
+
+* American Finance Association Annual Meeting, Poster Session (2022)
+
+* China International Conference in Finance (2022)
+
+* Financial Management Association Annual Meeting (2022)
