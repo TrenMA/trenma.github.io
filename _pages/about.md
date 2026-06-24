@@ -27,12 +27,10 @@ My research focuses on financial economics, with particular interests in:
 * International Finance
 * Mutual Funds and Hedge Funds
 
-My work develops statistical and machine learning methods for financial decision-making and evaluates their applications in asset management and financial markets.
-
 ---
 
 *Contact:*
 
 * Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham, NG8 1BB
-* Email: Please click [here](mailto:Tren.Ma@nottingham.ac.uk)
-* Official Webpage: [Nottingham University Business School](https://www.nottingham.ac.uk/business/people/liztm.phtml)
+* Email me: Please click [here](mailto:Tren.Ma@nottingham.ac.uk)
+* Official webpage: [Nottingham University Business School](https://www.nottingham.ac.uk/business/people/liztm.phtml)
