@@ -1,15 +1,5 @@
 ---
 permalink: /
-title: ""
-format:
-   html:
-     include-in-header:
-        text: |
-          <style>
-          h1 {
-          color: rgb(255, 1, 1);
-          }
-          </style>
 excerpt_separator: <!--more-->
 author_profile: true
 redirect_from:
@@ -17,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Finance at the University of Nottingham.
+I am Tren Ma, an Assistant Professor of Finance at the University of Nottingham.
 
 My research focuses on financial economics, with particular interests in:
 
@@ -29,7 +19,7 @@ My research focuses on financial economics, with particular interests in:
 
 ---
 
-**Contact:**
+**Contact**
 
 * Office: C40, South Building, Jubilee Campus, Wollaton Rd, Lenton, Nottingham, NG8 1BB
 * Email me: Please click [here](mailto:Tren.Ma@nottingham.ac.uk)
