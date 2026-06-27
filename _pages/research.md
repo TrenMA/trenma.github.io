@@ -19,6 +19,8 @@ author_profile: true
 
 **A Multivariate Covariate-Enhanced False Discovery Rate Method: Evidence from Technical Trading in Currency Markets** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research}
 
+Revise and Resubmit
+
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
