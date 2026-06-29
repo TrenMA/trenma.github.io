@@ -35,19 +35,6 @@ Revise and Resubmit
 
 ---
 
-## Selected Work in Progress
-
-**Chartists against the Machine: FX Technical Trading via Machine Learning**
-
-(with Ilias Filippou, Mark P. Taylor, and Guofu Zhou)
-
-
-**Technical Analysis versus Economic Fundamentals in Currency Markets: A Machine-Learning Analysis**
-
-(with Ilias Filippou, Mark P. Taylor)
-
----
-
 ## Selected Conference Presentations
 
 * Asia Meeting of the Econometric Society, East & Southeast Asia (scheduled, 2026)
