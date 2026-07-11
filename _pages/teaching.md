@@ -21,7 +21,7 @@ author_profile: true
 
 **University of Glasgow** (Graduate Teaching Assistant)
 
-* Mathematical Methods (MRes in Economics)
+* Mathematical Methods (MRes)
 
 * Advances of Machine Learning in Finance (MSc)
 
