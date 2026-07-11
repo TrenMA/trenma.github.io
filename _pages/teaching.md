@@ -5,25 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have over a decade of teaching experience in mathematics, statistics, econometrics, finance, and machine learning at undergraduate, postgraduate, and doctoral levels. I have taught a wide range of modules at the University of Nottingham, the University of Glasgow, and Thang Long University.
+I have over a decade of teaching experience in mathematics, statistics, econometrics, finance, and machine learning at undergraduate, postgraduate, and doctoral levels.
 
 ---
 
 **University of Nottingham**
 
-*Current year*
-
+* Topics in Advanced Econometrics II (PhD in Finance)
+  
 * Data Analytics and Machine Learning for Finance (MSc in Financial Technology)
 
 * Statistical Methods and Hypothesis Testing for Business Analysis (Online MSc in Business Consulting and Analytics)
-
-* Financial Markets and Investment (BSc in Finance, Accounting and Management)
-
-*Previous years*
-
-* Topics in Advanced Econometrics II (PhD in Finance)
-
-* Quantitative Support (Mathematics sessions, MSc in Finance and Investment)
 
 * Financial Markets and Investment (BSc in Finance, Accounting and Management)
 
