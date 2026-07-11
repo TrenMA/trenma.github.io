@@ -15,8 +15,6 @@ I have over a decade of teaching experience in mathematics, statistics, economet
   
 * Data Analytics and Machine Learning for Finance (MSc in Financial Technology)
 
-* Statistical Methods and Hypothesis Testing for Business Analysis (Online MSc in Business Consulting and Analytics)
-
 * Financial Markets and Investment (BSc in Finance, Accounting and Management)
 
 ---
