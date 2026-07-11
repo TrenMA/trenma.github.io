@@ -5,17 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have over a decade of teaching experience in mathematics, statistics, econometrics, finance, and machine learning at undergraduate, postgraduate, and doctoral levels.
-
 ---
 
 **University of Nottingham**
 
-* Topics in Advanced Econometrics II (PhD in Finance)
+* Topics in Advanced Econometrics II (PhD)
   
-* Data Analytics and Machine Learning for Finance (MSc in Financial Technology)
+* Data Analytics and Machine Learning for Finance (MSc)
 
-* Financial Markets and Investment (BSc in Finance, Accounting and Management)
+* Statistical Methods and Hypothesis Testing for Business Analysis (Online MSc)
+
+* Financial Markets and Investment (BSc)
 
 ---
 
@@ -23,7 +23,7 @@ I have over a decade of teaching experience in mathematics, statistics, economet
 
 * Mathematical Methods (MRes in Economics)
 
-* Advances of Machine Learning in Finance (MSc in FinTech)
+* Advances of Machine Learning in Finance (MSc)
 
 * Portfolio Analysis and Investment (MSc)
 
@@ -32,15 +32,3 @@ I have over a decade of teaching experience in mathematics, statistics, economet
 * Financial Derivatives (Honours)
 
 * Introductory Statistics for Economics (Undergraduate)
-
----
-
-**Thang Long University** (Lecturer)
-
-* Econometrics (Fourth Year)
-
-* Statistical Methods for Economics and Social Sciences (Third Year)
-
-* Mathematical Methods for Economics (Second Year)
-
-* Logic and Mathematical Reasoning (First Year)
