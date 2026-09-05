@@ -31,6 +31,8 @@ Revise and Resubmit
 
 **ChatGPT, Data Breaches, and Market Reactions** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5068625){: .btn--research}
 
+Revise and Resubmit
+
 (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
 
 ---
