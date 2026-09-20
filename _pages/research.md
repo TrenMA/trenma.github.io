@@ -36,7 +36,13 @@ Revise and Resubmit
 (with Fearghal Kearney, Hadi Movaghari, Georgios Sermpinis)
 
 ---
+## Works in Progress
 
+**Reading the Market: Large Language Models, Financial Media, and Currency Risk Premia**
+
+(with Ilias Filippou, Mark P. Taylor)
+
+---
 ## Selected Conference Presentations
 
 * Asia Meeting of the Econometric Society, East & Southeast Asia (scheduled, 2026)
