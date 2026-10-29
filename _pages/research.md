@@ -17,14 +17,14 @@ author_profile: true
 
 ## Working Papers
 
-**A Multivariate Covariate-Enhanced False Discovery Rate Method: Evidence from Technical Trading in Currency Markets** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research} [[PDF](https://trenma.github.io/papers/mfFDR-FX.pdf)]
+**A Multivariate Covariate-Enhanced False Discovery Rate Method: Evidence from Technical Trading in Currency Markets** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716505){: .btn--research} [PDF](https://trenma.github.io/papers/mfFDR-FX.pdf){: .btn--research} 
 
 *Revise and Resubmit*
 
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
-**Assessing Hedge Fund Performance with an Information-based Multiple Test** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} [[PDF](https://trenma.github.io/papers/FWER-Hegde-Funds.pdf)]{: .btn--research} [Code](https://github.com/TrenMA/fwer-plus-in-assessing-hedge-fund-performance){: .btn--research} 
+**Assessing Hedge Fund Performance with an Information-based Multiple Test** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} [PDF](https://trenma.github.io/papers/FWER-Hegde-Funds.pdf){: .btn--research} [Code](https://github.com/TrenMA/fwer-plus-in-assessing-hedge-fund-performance){: .btn--research} 
 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
