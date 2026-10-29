@@ -45,7 +45,7 @@ author_profile: true
 ---
 ## Selected Conference Presentations
 
-* European Winter Meeting of the Econometric Society (Accepted, 2026)
+* European Winter Meeting of the Econometric Society (Scheduled, 2026)
 
 * Asia Meeting of the Econometric Society, East & Southeast Asia (2026)
 
