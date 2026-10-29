@@ -24,7 +24,7 @@ author_profile: true
 (with Ilias Filippou, Po-Hsuan Hsu, Georgios Sermpinis, Mark P. Taylor)
 
 
-**Assessing Hedge Fund Performance with an Information-based Multiple Test** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} [Code](https://github.com/TrenMA/fwer-plus-in-assessing-hedge-fund-performance){: .btn--research}
+**Assessing Hedge Fund Performance with an Information-based Multiple Test** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5423519){: .btn--research} [Code](https://github.com/TrenMA/fwer-plus-in-assessing-hedge-fund-performance){: .btn--research} [[PDF](https://trenma.github.io/papers/FWER-Hegde-Funds.pdf)]{: .btn--research}
 
 (with Po-Hsuan Hsu, Ioannis Psaradellis, Georgios Sermpinis)
 
